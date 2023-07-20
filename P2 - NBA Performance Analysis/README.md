@@ -4,7 +4,7 @@
 
 Welcome to my NBA Performance Analysis (2022-2023) project! 
 
-This project aims to demonstrate my expertise in conducting in-depth data analysis and providing valuable insights.Throughout this project, I showcase my proficiency in a wide range of data analytical tasks, including:
+This project aims to demonstrate my expertise in conducting in-depth data analysis and providing valuable insights. Throughout this project, I showcase my proficiency in a wide range of data analytical tasks, including:
 - **Data integration** of diverse data sources (flat files, APIs, and websites)
 - **Data cleaning and transformation** to ensure the accuracy and reliability of the dataset
 - **Data visualization** to present key findings 
