@@ -1,7 +1,7 @@
 # COVID Infection Rate Analysis
 
 ## About the Project
-Welcome to my COVID Analysis project!
+Welcome to my COVID Infection Rate Analysis project!
 
 This project displays my expertise in conducting in-depth data analysis into the global impact of the COVID-19 pandemic. Throughout this project, I demonstrate my expertise in two key areas:
 
