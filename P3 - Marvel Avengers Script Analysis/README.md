@@ -1,5 +1,4 @@
 # Marvel Avengers Script Analysis
----
 
 ## About the Project
 Welcome to my Marvel Avengers Script Analysis (NER Model) project!
