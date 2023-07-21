@@ -14,9 +14,9 @@ Driven by my desire to excel in the data domain, I also decided to pursue a bach
 In this GitHub repository, I aim to use this platform to share my data analysis and data science projects with everyone. It serves as a showcase of my passion, dedication, and interest in the field. Through my projects, I hope to demonstrate my problem-solving abilities, analytical skills, and creativity in tackling various data-related challenges.
 
 ## Portfolio Projects
-1. COVID Infection Analysis - SQL/Tableau
-2. NBA Performance Analysis - Python
-3. Marvel Avengers Script Analysis - Python
+1. **COVID Infection Analysis** - SQL/Tableau
+2. **NBA Performance Analysis** - Python
+3. **Marvel Avengers Script Analysis** - Python
 
 ## Contact
 I am always eager to connect with fellow data enthusiasts, potential collaborators, or employers. Feel free to reach out to me via email at joseph.h.choi.011@gmail.com or connect with me at www.linkedin.com/in/josephhchoi.
