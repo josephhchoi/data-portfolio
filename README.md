@@ -8,7 +8,7 @@ A bit about me: I've gone through many career pivots, almost too many to count. 
 ## Education and Training
 To pursue my newfound passion, I dedicated myself to acquiring the necessary skills and knowledge. I have completed a wide range of data analyst and data science certifications, which have equipped me with valuable expertise in this field. Additionally, I participated in an intensive data analytics boot camp, where I honed my analytical skills and learned to work with real-world data challenges.
 
-Driven by my desire to excel in the data domain, I also decided to pursue a bachelor’s degree in data science. This commitment reflects my determination to go all-in with this data route and continually expand my capabilities as a data analyst and a data scientist.
+Driven by my desire to excel in the data domain, I also decided to pursue a bachelor’s degree in data science. This commitment reflects my determination to go all-in with this data route and continually expand my capabilities as a data analyst and scientist.
 
 ## Purpose of this GitHub
 In this GitHub repository, I aim to use this platform to share my data analysis and data science projects with everyone. It serves as a showcase of my passion, dedication, and interest in the field. Through my projects, I hope to demonstrate my problem-solving abilities, analytical skills, and creativity in tackling various data-related challenges.
