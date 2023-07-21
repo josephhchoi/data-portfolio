@@ -1,4 +1,4 @@
-# COVID Infection Rate Analysis
+# COVID Case Analysis
 
 ## About the Project
 Welcome to my COVID Analysis project!
