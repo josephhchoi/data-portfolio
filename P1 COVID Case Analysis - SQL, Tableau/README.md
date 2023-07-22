@@ -16,4 +16,6 @@ This project displays my expertise in conducting in-depth data analysis into the
 1. Data Exploration (SQL): Employ SQL to explore and prepare COVID-19 data for Tableau visualization.
 2. Data Visualization (Tableau): Create a dashboard using phase 1 data for enhanced comprehension.
 
-**Tableau Link**: https://public.tableau.com/views/CovidInfectionDashboard_16899007647030/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+**Tableau Links**: 
+COVID-19 Case Analysis: https://public.tableau.com/views/CovidInfectionDashboard_16899007647030/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+COVID-19 Vaccination Report: https://public.tableau.com/views/COVID-19VaccinationReport/GlobalVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link
