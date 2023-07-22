@@ -9,7 +9,8 @@ This project displays my expertise in conducting in-depth data analysis into the
 - Data Visualization (Tableau)
 
 ## Regarding the Dataset
-**Description**: The website provides extensive global COVID-19 statistics, allowing me to deeply explore the infection rate trends on a global scale  <br>
+**Description**: <br>
+The website provides extensive global COVID-19 statistics, allowing me to deeply explore the infection rate trends on a global scale  <br>
 **Dataset Link**: https://ourworldindata.org/covid-deaths
 
 ## Project Workflow
@@ -17,8 +18,8 @@ This project displays my expertise in conducting in-depth data analysis into the
 2. Data Visualization (Tableau): Create a dashboard using phase 1 data for enhanced comprehension.
 
 ## Tableau Links
-COVID-19 Case Analysis: <br>
+**COVID-19 Case Analysis**: <br>
 https://public.tableau.com/views/CovidInfectionDashboard_16899007647030/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-COVID-19 Vaccination Report: <br>
+**COVID-19 Vaccination Report**: <br>
 https://public.tableau.com/views/COVID-19VaccinationReport/GlobalVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link
