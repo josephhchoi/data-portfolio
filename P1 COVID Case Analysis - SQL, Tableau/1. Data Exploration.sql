@@ -63,29 +63,29 @@ GROUP BY date;
 
 -- 7.) Total Population vs Vaccinations: displaying the # of people vaccinated globally via 'CTE' & 'Temp Table'
 
-	-- Using CTE --
+-- Using CTE --
 WITH PopvsVac (continent, location, date, population, new_vaccinations, rolling_vaccinnated_count)
 AS
 (
-	SELECT continent, location, date, population, new_vaccinations, 
-	SUM(new_vaccinations) OVER (PARTITION BY location ORDER BY location, date) AS rolling_vaccinnated_count
-	FROM portfolioproject.coviddata
-	ORDER BY 2, 3
+SELECT continent, location, date, population, new_vaccinations, 
+SUM(new_vaccinations) OVER (PARTITION BY location ORDER BY location, date) AS rolling_vaccinnated_count
+FROM portfolioproject.coviddata
+ORDER BY 2, 3
 )
 SELECT *, (rolling_vaccinnated_count/population)*100 AS vaccinated_rate
 FROM PopvsVac;
 
-	-- Using Temp Table --
+-- Using Temp Table --
 USE portfolioproject;
 DROP TABLE IF EXISTS PopulationVaccinatedRate;
 CREATE TEMPORARY TABLE PopulationVaccinatedRate
 (
-	continent nvarchar(255),
-	location nvarchar(255),
-	date datetime,
-	population numeric,
-	new_vaccinations numeric,
-	rolling_vaccinated_count numeric
+continent nvarchar(255),
+location nvarchar(255),
+date datetime,
+population numeric,
+new_vaccinations numeric,
+rolling_vaccinated_count numeric
 );
 INSERT INTO PopulationVaccinatedRate
 SELECT continent, location, date, population, new_vaccinations, 
