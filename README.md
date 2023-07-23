@@ -21,7 +21,7 @@ In this GitHub repository, I aim to use this platform to share my data analysis 
 ## Contact
 I am always eager to connect with fellow data enthusiasts, potential collaborators, or employers. Feel free to reach out to me via email at joseph.h.choi.011@gmail.com or connect with me at:
 
-**LI**: www.linkedin.com/in/josephhchoi <br>
+**LI**: https://www.linkedin.com/in/josephhchoi <br>
 **TB**: https://public.tableau.com/app/profile/josephhchoi
 
 Thank you for visiting my portfolio! Your feedback and suggestions are greatly appreciated!
