@@ -1,4 +1,4 @@
--- SETUP --
+----- SETUP -----
 
 -- Ensuring that the 'coviddata' table imported successfully
 SELECT *
@@ -26,7 +26,7 @@ ALTER TABLE portfolioproject.coviddata MODIFY COLUMN `new_vaccinations` INT; -- 
 UPDATE portfolioproject.coviddata SET `total_vaccinations` = NULL WHERE `total_vaccinations` = ''; -- Updating empty string values to NULL
 ALTER TABLE portfolioproject.coviddata MODIFY COLUMN `total_vaccinations` BIGINT; -- 'total_vaccinations' column: from TEXT to BIGINT
 
--- DATA EXPLORATION --
+----- DATA EXPLORATION -----
 
 -- 1.) Total Cases vs Total Deaths: Displays COVID-19 fatality probability by country
 SELECT location, date, total_deaths, total_cases, (total_deaths/total_cases)*100 AS fatality_rate
