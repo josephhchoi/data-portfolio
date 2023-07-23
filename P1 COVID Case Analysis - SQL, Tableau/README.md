@@ -15,7 +15,7 @@ The website provides extensive global COVID-19 statistics, allowing me to deeply
 
 ## Project Workflow
 1. **Data Exploration (SQL)**: Employ SQL to explore and prepare COVID-19 data for Tableau visualization.
-2. **Data Visualization (Tableau)**: Create a dashboard using phase 1 data for enhanced comprehension.
+2. **Data Visualization (Tableau)**: Create dashboards using phase 1 data for enhanced comprehension.
 
 ## Tableau Links
 **COVID-19 Case Analysis**: <br>
