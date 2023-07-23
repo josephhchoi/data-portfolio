@@ -5,7 +5,7 @@ Welcome to my COVID Analysis project!
 
 This project displays my expertise in conducting in-depth data analysis into the global impact of the COVID-19 pandemic. Throughout this project, I demonstrate my expertise in two key areas:
 
-- Data Exploration (SQL)
+- Data Preparation & Exploration (SQL)
 - Data Visualization (Tableau)
 
 ## Regarding the Dataset
