@@ -19,6 +19,6 @@ In this GitHub repository, I aim to use this platform to share my data analysis 
 3. **Marvel Avengers Script Analysis** - Python
 
 ## Contact
-I am always eager to connect with fellow data enthusiasts, potential collaborators, or employers. Feel free to reach out to me via email at joseph.h.choi.011@gmail.com or connect with me at www.linkedin.com/in/josephhchoi.
+I am always eager to connect with fellow data enthusiasts, potential collaborators, or employers. Feel free to reach out to me via email at joseph.h.choi.011@gmail.com or connect with me at linkedin.com/in/josephhchoi & public.tableau.com/app/profile/josephhchoi
 
 Thank you for visiting my portfolio! Your feedback and suggestions are greatly appreciated!
