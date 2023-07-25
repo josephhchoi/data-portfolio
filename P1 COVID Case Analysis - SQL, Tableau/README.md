@@ -10,8 +10,10 @@ This project displays my expertise in conducting in-depth data analysis into the
 
 ## Regarding the Dataset
 **Description**: <br>
-The website provides extensive global COVID-19 statistics, allowing me to deeply explore the infection rate trends on a global scale  <br>
-**Dataset Link**: https://ourworldindata.org/covid-deaths
+The website provides extensive global COVID-19 statistics, allowing me to deeply explore the infection rate trends on a global scale 
+
+**Dataset Link**: <br>
+https://ourworldindata.org/covid-deaths
 
 ## Project Workflow
 1. **Data Exploration (SQL)**: Employ SQL to explore and prepare COVID-19 data for Tableau visualization.
