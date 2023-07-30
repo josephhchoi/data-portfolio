@@ -36,7 +36,7 @@ FROM portfolioproject.bikestores
 GROUP BY brand_name
 ORDER BY total_orders DESC;
 
--- 2.) Montly Sales Trend --
+-- 2.) Monthly Sales Trend --
 
 	-- Monthly sales and total revenue with year --
 SELECT 
@@ -181,6 +181,3 @@ SELECT
     total_revenue
 FROM TopCustomers;
    
-    
-    
-    
