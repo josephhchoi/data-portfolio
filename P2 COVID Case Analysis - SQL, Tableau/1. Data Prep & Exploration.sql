@@ -102,3 +102,4 @@ SELECT continent, location, date, population, new_vaccinations,
 SUM(new_vaccinations) OVER (PARTITION BY location ORDER BY location, date) AS rolling_vaccinnated_count
 FROM portfolioproject.coviddata
 ORDER BY 2, 3;
+
