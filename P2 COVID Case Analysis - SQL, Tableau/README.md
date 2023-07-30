@@ -19,6 +19,5 @@ https://ourworldindata.org/covid-deaths
 1. **Data Exploration (SQL)**: Employ SQL to explore and prepare COVID-19 data for Tableau visualization.
 2. **Data Visualization (Tableau)**: Create a dashboard using phase 1 data for enhanced comprehension.
 
-## Tableau Links
-**COVID-19 Vaccination Report**: <br>
+**Tableau Link**: COVID-19 Vaccination Report <br>
 https://public.tableau.com/views/COVID-19VaccinationReport/GlobalVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link
