@@ -1,6 +1,6 @@
 ----- SETUP -----
 
--- Ensuring that the 'bikestores' table imported successfully
+-- Ensuring that the 'bikestores' table imported successfully --
 SELECT *
 FROM portfolioproject.bikestores;
 
