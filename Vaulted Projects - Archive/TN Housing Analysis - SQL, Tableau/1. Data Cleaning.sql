@@ -1,14 +1,10 @@
------------------
 ----- SETUP -----
------------------
 
 -- Ensuring that the 'nashvillehousingdata' table imported successfully
 SELECT *
 FROM portfolioproject.nashvillehousingdata;
 
---------------------------
 ----- DATA WRANGLING -----
---------------------------
 
 -- 1.) Date Format Standardization --
 SELECT DATE_FORMAT(STR_TO_DATE(SaleDate, '%M %e, %Y'), '%c/%e/%Y') -- Converting text to data & the date format
