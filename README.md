@@ -16,7 +16,7 @@ I aim to use this platform in this GitHub repository to share my data analysis a
 ## Portfolio Projects
 1. **Healthcare ER Analysis** - SQL/Tableau/Excel
 2. **BikePulse Sales Analysis** - SQL/Tableau/Excel
-3. **COVID Case Analysis** - SQL/Tableau
+3. **Hotel Performance Analysis** - SQL/PowerBI
 4. **NBA Performance Analysis** - Python
 5. **Marvel Avengers Script Analysis** - Python
 
