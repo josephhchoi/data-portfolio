@@ -19,7 +19,7 @@ Available in link: https://www.kaggle.com/competitions/house-prices-advanced-reg
 ## Project Objective
 1. **Monthly Price Patterns**: Explore price distribution patterns in specific months
 2. **Neighborhood Impact**: Explore the influence of neighborhoods on the distribution of property prices
-3. **Property Features and Price**: Analyze the relationship between garage size features and the corresponding slae prices
+3. **Garage Features and Price**: Analyze the relationship between garage size features and the corresponding slae prices
 4. **Property Condition's Influence**: Investigate how the overall condition of properties influences sale prices
 5. **Room Count and Price Correlation**: Examine the correlation between the number of rooms in a property and its sale price
 
