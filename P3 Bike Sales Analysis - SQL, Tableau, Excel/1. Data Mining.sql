@@ -1,3 +1,5 @@
+----- Platform Used: MySQL -----
+
 ----- SETUP -----
 
 -- Ensuring that the 'bikestores' table imported successfully --
