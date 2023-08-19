@@ -1,3 +1,5 @@
+----- Platform Used: SQL Server Management -----
+
 ----- DATA IMPORT & CONSOLIDATION -----
 
 	-- Imported the following tables into a database: 2018 / 2019 / 2020 / market_segment / meal_cost
