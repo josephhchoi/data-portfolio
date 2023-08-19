@@ -1,3 +1,5 @@
+----- Platform Used: MySQL -----
+
 ----- SETUP ------
 
 -- Ensuring that the 'hospital_er' table imported successfully --
