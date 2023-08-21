@@ -15,10 +15,12 @@ I aim to use this platform in this GitHub repository to share my data analysis a
 
 ## Portfolio Projects
 1. **Real Estate Pricing Analysis**: Python
-2. **Healthcare ER Analysis** - SQL/Tableau/Excel
-3. **BikePulse Sales Analysis** - SQL/Tableau/Excel
-4. **Hotel Performance Analysis** - SQL/PowerBI
+2. **Road Safety Performance** - SQL/PowerBI/Tableau
+3. **Healthcare ER Analysis** - SQL/Tableau/Excel
+4. **BikePulse Sales Analysis** - SQL/Tableau/Excel
 5. **Marvel Avengers Script Analysis** - Python (NLP)
+
+Projects Archived
 
 ## Contact
 I am always eager to connect with fellow data enthusiasts, potential collaborators, or employers. Feel free to reach out to me via email at joseph.h.choi.011@gmail.com or connect with me at:
