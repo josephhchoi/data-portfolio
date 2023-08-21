@@ -20,8 +20,6 @@ I aim to use this platform in this GitHub repository to share my data analysis a
 4. **BikePulse Sales Analysis** - SQL/Tableau/Excel
 5. **Marvel Avengers Script Analysis** - Python (NLP)
 
-Projects Archived
-
 ## Contact
 I am always eager to connect with fellow data enthusiasts, potential collaborators, or employers. Feel free to reach out to me via email at joseph.h.choi.011@gmail.com or connect with me at:
 
