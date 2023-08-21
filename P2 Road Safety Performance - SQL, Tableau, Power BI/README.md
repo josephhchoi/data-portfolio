@@ -29,3 +29,6 @@ Available in link: https://drive.google.com/drive/folders/1pCNs-TRPznlbAn712gAGy
 1. **SQL**: Extract and employ advanced SQL queries to delve into the dataset and perform in-depth analysis
 2. **Power BI**: Develop an interactive dashboard named **Road Safety Performance: Injury Report** for data visualization and insights
 3. **Tableau**: Construct a detailed dashboard titled **Road Safety Performance: Accident Report** to provide in-depth insights to road incidents
+
+Tableau Link: Accident Report
+https://public.tableau.com/views/RoadSafetyPerformanceAccidentReport/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
