@@ -75,7 +75,6 @@ ORDER BY
         ELSE 8
     END;
 
-
 -- 5.) Accident Severity Analysis
 
 	-- Calculate the total number of accidents for each severity level
