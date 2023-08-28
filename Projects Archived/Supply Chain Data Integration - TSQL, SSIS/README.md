@@ -1,4 +1,4 @@
-# Supply Chain Data Integration
+# Supply Chain Database Integration
 
 ## About the Project
 Welcome to the Supply Chain Data Integration and Reporting project!
