@@ -1,9 +1,9 @@
 # WORLD LIFE EXPECTANCY PROJECT: EXPLORATORY DATA ANALYSIS
 
 	# Table of Content:
-		# 15-Year Life Expectancy Trend By Country
+	# 15-Year Life Expectancy Trend By Country
         # Correlation between life expectancy and GDP
-		# Correlation between life expectancy and BMI
+	# Correlation between life expectancy and BMI
         # Average Life Expectancy Comparison: Developed vs. Developing Countries
         # Adult Mortality's Impact on Life Expectancy
 
