@@ -10,7 +10,7 @@ Exploring deep into the World Life Expectancy dataset using SQL. Throughout this
 - **Aggregate Functions**: SUM, COUNT, DISTINCT, AVG, MAX, MIN
 - **String Functions**: CONCAT
 - **Window Functions**: OVER, PARTITION BY, ROW_NUMBER
-- **TSQL**: UPDATE
+- **TSQL**: UPDATE, DELETE FROM
 - **Join Statements**
 - **Case Statements**
 
