@@ -93,37 +93,37 @@
 		AND t2.Status = 'Developed'
 	;
     
-    -- 'Life expectancy' Column (Part 1): Checking for blank values in 'Life expectancy' column
+	-- 'Life expectancy' Column (Part 1): Checking for blank values in 'Life expectancy' column
 	SELECT *
-    FROM world_life_expectancy
-    WHERE `Life expectancy` = ''
-    ;
-
-
+	FROM world_life_expectancy
+	WHERE `Life expectancy` = ''
+	;
+	
+	
 	-- 'Life expectancy' Column (Part 2): Setting up code to add to UPDATE Statement
 	SELECT 
 		t1.Country, t1.Year, t1.`Life expectancy`, 
-        t2.Country, t2.Year, t2.`Life expectancy`, 
-        t3.Country, t3.Year, t3.`Life expectancy`,
-        ROUND((t2.`Life expectancy` + t3.`Life expectancy`)/2,1)
-    FROM world_life_expectancy t1
-    JOIN world_life_expectancy t2
+	t2.Country, t2.Year, t2.`Life expectancy`, 
+	t3.Country, t3.Year, t3.`Life expectancy`,
+	ROUND((t2.`Life expectancy` + t3.`Life expectancy`)/2,1)
+	FROM world_life_expectancy t1
+	JOIN world_life_expectancy t2
 		ON t1.Country = t2.Country
-        AND t1.Year = t2.Year - 1
-    JOIN world_life_expectancy t3
+	AND t1.Year = t2.Year - 1
+	JOIN world_life_expectancy t3
 		ON t1.Country = t3.Country
-        AND t1.Year = t3.Year + 1
+	AND t1.Year = t3.Year + 1
 	WHERE t1.`Life expectancy` = ''
-    ;    
-
+	;    
+	
 	-- 'Life expectancy' Column (Part 3): Populating blank 'Life expectancy' values by averaging the previous AND following years' life expectancy
-    UPDATE world_life_expectancy t1
-    JOIN world_life_expectancy t2
+	UPDATE world_life_expectancy t1
+	JOIN world_life_expectancy t2
 		ON t1.Country = t2.Country
-        AND t1.Year = t2.Year - 1
-    JOIN world_life_expectancy t3
+	AND t1.Year = t2.Year - 1
+	JOIN world_life_expectancy t3
 		ON t1.Country = t3.Country
-        AND t1.Year = t3.Year + 1
-    SET t1.`Life expectancy` = ROUND((t2.`Life expectancy` + t3.`Life expectancy`)/2,1)
-    WHERE t1.`Life expectancy` = ''
-    ;
+	AND t1.Year = t3.Year + 1
+	SET t1.`Life expectancy` = ROUND((t2.`Life expectancy` + t3.`Life expectancy`)/2,1)
+	WHERE t1.`Life expectancy` = ''
+	;
