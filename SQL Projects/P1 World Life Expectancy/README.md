@@ -12,6 +12,7 @@ Exploring deep into the World Life Expectancy dataset using SQL. Throughout this
 - **Window Functions**: OVER, PARTITION BY, ROW_NUMBER
 - **TSQL**: UPDATE, DELETE FROM, ALTER TABLE
 - **Join Statements**: LEFT JOIN, SELF JOIN
+- **Subquery**
 - **Case Statements**
 
 ## Regarding Dataset
