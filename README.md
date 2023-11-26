@@ -8,7 +8,7 @@ Hello everyone, my name is Joseph. Welcome to my GitHub!
 ## Education and Training
 I dedicated myself to acquiring the necessary skills and knowledge to pursue my newfound passion. I have completed a wide range of data analyst and data science certifications, which have equipped me with valuable expertise in this field. Additionally, I participated in an intensive data analytics boot camp, where I honed my analytical skills and learned to work with real-world data challenges.
 
-Driven by my desire to excel in the data domain, I also decided to pursue a bachelor’s degree in data science (expected grad date: Aug 2024). This commitment reflects my determination to go all-in with this data route and continually expand my capabilities as a data analyst and scientist.
+Driven by my desire to excel in the data domain, I also decided to pursue a bachelor’s degree in data science (expected grad date: Jun 2024). This commitment reflects my determination to go all-in with this data route and continually expand my capabilities as a data analyst and scientist.
 
 ## Purpose of this GitHub
 I aim to use this platform in this GitHub repository to share my data analysis and data science projects with everyone. It serves as a showcase of my passion, dedication, and interest in the field. I hope to demonstrate my problem-solving abilities, analytical skills, and creativity in tackling various data-related challenges through my projects.
