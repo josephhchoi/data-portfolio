@@ -8,8 +8,7 @@ Data analytics is a vast and ever-evolving field. Driven by my desire to excel i
 Excited for what’s to come and looking forward to tackling various data-related challenges through my projects.
 
 ## Education and Training
-**Bellevue University** - Bachelor’s Degree, Data Science
-Expected Graduation: Jun 2024
+**Bellevue University** - Bachelor’s Degree, Data Science (Expected Graduation: Jun 2024)
 
 **Certification**:
 - Google Data Analytics Certificate
