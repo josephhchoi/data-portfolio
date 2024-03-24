@@ -12,15 +12,14 @@ Excited for what’s to come and looking forward to tackling various data-relate
 Expected Graduation: Jun 2024
 
 **Certification**:
-Google Data Analytics Certificate
-IBM Data Analyst Professional Certificate
-IBM Data Science Professional Certificate
+- Google Data Analytics Certificate
+- IBM Data Analyst Professional Certificate
+- IBM Data Science Professional Certificate
 
 ## Contact
 I love connecting with other data enthusiasts, potential collaborators, or anyone interested in my work. Want to stay connected? Here is how you can get in touch:
-
-**Email**: joseph.h.choi.011@gmail.com
-**LinkedIn**: https://www.linkedin.com/in/josephhchoi
-**Tableau**: https://public.tableau.com/app/profile/josephhchoi
+- **Email**: joseph.h.choi.011@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/josephhchoi
+- **Tableau**: https://public.tableau.com/app/profile/josephhchoi
 
 Thank you for visiting my portfolio!
