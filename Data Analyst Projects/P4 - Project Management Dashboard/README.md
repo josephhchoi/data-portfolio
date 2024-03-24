@@ -3,7 +3,7 @@
 ## About the Project
 Welcome to my Project Management Dashboard!
 
-This project showcases my proficiency in building a dashboard using a construction management dataset. Throughout this project, I demonstrate my expertise in three key areas:
+This project showcases my proficiency in building a dashboard using construction management dataset. Throughout this project, I demonstrate my expertise in three key areas:
 - DAX
 - Time Analysis
 - Calculated Measures/Columns
