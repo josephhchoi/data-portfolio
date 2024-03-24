@@ -1,27 +1,20 @@
-# US Household Income: Data Cleaning & EDA
+# Data Cleaning Automation
 
 ## About the Project
-Diving in-depth into the US Household Income dataset using SQL. Throughout this project, I showcase my expertise areas in two main areas:
-- Data Cleaning
-- Exploratory Data Analysis
-
-## SQL Proficiency Summary
-- **Basic Querying**: SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
-- **Aggregate Functions**: SUM, COUNT, DISTINCT, AVG, MAX, MIN
-- **String Functions**: CONCAT
-- **Window Functions**: OVER, PARTITION BY, ROW_NUMBER
-- **TSQL**: UPDATE, DELETE FROM, ALTER TABLE
-- **Join Statements**: LEFT JOIN, SELF JOIN
-- **Subquery**
-- **Case Statements**
+This project's objective is to streamline the data cleaning process for the US household income dataset. Through the creation of stored procedures and automation, the project ensures data integrity and consistency by removing duplicates and standardizing data fields.
 
 ## Regarding Dataset
 **Dataset Location**: Available in the 'Dataset' folder
 
 ## Project Workflow
-- **Data Cleaning**: 
-    - Identification and Removal of Duplicate Rows
-    - Data Standardization
-    - Handling Null/Blank Values
-- **Exploratory Data Analysis**:
-    - Retrieval of statistical insights to average income trends in the US 
+- **Data Cleaning Steps**:
+    - Remove duplicates from the dataset based on specific criteria
+    - Standardize data fields such as state names and types to ensure consistency
+- **Stored Procedures Steps**:
+    - Create a copy table (us_household_income_cleaned) to store cleaned data
+    - Copy data from the original table into the copy table
+    - Implement data cleaning queries within the stored procedure, including removing duplicates and standardizing fields
+- **Debugging and Performance Check**:
+    - Perform debugging or check the performance of the stored procedure by analyzing row numbers and distinct values in relevant fields
+- **Creating Event**:
+    - Create an event (run_data_cleaning) scheduled to run the stored procedure (copy_and_data_clean) at regular intervals (every 2 minutes in this case) to ensure ongoing data cleanliness and consistency
