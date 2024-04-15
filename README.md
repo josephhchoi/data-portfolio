@@ -10,7 +10,7 @@ Excited for what’s to come and looking forward to tackling various data-relate
 - [Data Science Projects](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Science%20Projects)
 
 ## Education and Training:
-**Bellevue University** - Bachelor’s Degree, Data Science (Expected Graduation: Jun 2024)
+**Bellevue University** - Bachelor’s Degree, Data Science
 
 **Certification**:
 - Google Data Analytics Certificate
