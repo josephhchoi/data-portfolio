@@ -13,20 +13,20 @@ Data analytics is a vast and ever-evolving field. Driven by my desire to excel i
 Bachelor’s Degree, Data Science
 
 **Certification**:
-- Google Data Analytics Certificate
-- IBM Data Analyst Professional Certificate
-- IBM Data Science Professional Certificate
+Google Data Analytics Certificate <br>
+IBM Data Analyst Professional Certificate <br>
+IBM Data Science Professional Certificate <br>
 
 ## Work Experience:
-- Data Analyst | @Kitchell <br> (1/1/2024 to Present)
-- Transportation Data Analyst | @Yamaha Motors (10/1/2021 to 11/30/2023)
-- Assistant Manager, Analytics | @Starway Transport (1/1/2021 to 6/30/2021)
-- Logistic Coordinator, Analytics | @Starway Transport (5/1/2017 to 12/31/2020)
+**Data Analyst** @Kitchell (1/1/2024 to Present) <br>
+**Transportation Data Analyst** @Yamaha Motors (10/1/2021 to 11/30/2023) <br>
+**Assistant Manager, Analytics** @Starway Transport (1/1/2021 to 6/30/2021) <br>
+**Logistic Coordinator, Analytics** @Starway Transport (5/1/2017 to 12/31/2020)
 
 ## Contact:
 I love connecting with other data enthusiasts, potential collaborators, or anyone interested in my work. Want to stay connected? Here is how you can get in touch:
-- **Email**: joseph.h.choi.011@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/josephhchoi
-- **Tableau**: https://public.tableau.com/app/profile/josephhchoi
+**Email**: joseph.h.choi.011@gmail.com <br>
+**LinkedIn**: https://www.linkedin.com/in/josephhchoi <br>
+**Tableau**: https://public.tableau.com/app/profile/josephhchoi <br>
 
 Thank you for visiting my portfolio!
