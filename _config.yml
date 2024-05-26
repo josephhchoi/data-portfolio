@@ -1,3 +1,7 @@
 title: Joseph Choi
 logo: /Assets/headshot_round.jpg
 theme: jekyll-theme-minimal
+
+collections:
+  projects:
+    output: true
