@@ -1,8 +1,8 @@
-# Data Portfolio
+# Data Analyst Portfolio
 
 ## Introduction:
 I am a data analyst who specializes in managing data, building models, automating processes, and designing both dashboards and paginated reports. 
-The data field is a vast and ever-evolving field. Driven by my desire to excel in my industry, I aim to use this platform to learn and stay current with the latest trends by putting together a portfolio to showcase my data science projects to everyone. Excited for what’s to come and looking forward to tackling various data-related challenges through my projects.
+The data field is a vast and ever-evolving field. Driven by my desire to excel in my industry, I aim to use this platform to learn and stay current with the latest trends by putting together a portfolio to showcase my data analytics and data science projects to everyone. Excited for what’s to come and looking forward to tackling various data-related challenges through my projects.
 
 ## Education and Training:
 **Bellevue University** <br>
