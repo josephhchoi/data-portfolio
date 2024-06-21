@@ -4,11 +4,6 @@
 I am a data analyst who specializes in managing data, building models, automating processes, and designing both dashboards and paginated reports. 
 The data field is a vast and ever-evolving field. Driven by my desire to excel in my industry, I aim to use this platform to learn and stay current with the latest trends by putting together a portfolio to showcase my data science projects to everyone. Excited for what’s to come and looking forward to tackling various data-related challenges through my projects.
 
-## Project Links:
-- [Project 1: Energy Consumption Predictive Model](P1.md)
-- [Project 2: Data Salary Predictive Model](P2.md)
-- [Project 3: Stress Level Predictive Model](P3.md)
-
 ## Education and Training:
 **Bellevue University** <br>
 Bachelor’s Degree, Data Science
