@@ -42,7 +42,7 @@ ALTER TABLE es_share_yr_1 DROP COLUMN dteday;
 EXEC sp_rename 'dbo.es_share_yr_0.dteday_date', 'dteday', 'COLUMN';
 EXEC sp_rename 'dbo.es_share_yr_1.dteday_date', 'dteday', 'COLUMN';
 
--- 3. FINAL QUERY PREPPED FOR POWER BI PLUG-IN:
+-- 3. PREPPED QUERY FOR POWER BI PLUG-IN:
 
 -- Combined the 3 tables via CTE & JOIN
 WITH CombinedESData AS (
