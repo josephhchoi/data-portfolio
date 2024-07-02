@@ -6,7 +6,7 @@
 USE jhc;
 GO
 
--- Verified the imported tables
+-- Verified that tables imported successfully
 SELECT * FROM es_share_yr_0;
 SELECT * FROM es_share_yr_1;
 SELECT * FROM cost_table;
