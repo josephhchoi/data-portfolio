@@ -11,7 +11,7 @@ SELECT * FROM es_share_yr_0;
 SELECT * FROM es_share_yr_1;
 SELECT * FROM cost_table;
 
--- 2. ADDRESSING DATA TYPE AND FORMATTING ERROR:
+-- 2. ADDRESSED DATA TYPE AND FORMATTING ERROR:
 	-- 'dteday' column imported as 'nvarchar' with dates in 'day/month/year' format
 	-- Converted 'dteday' to 'date' format and reformat to 'month/day/year'
 
