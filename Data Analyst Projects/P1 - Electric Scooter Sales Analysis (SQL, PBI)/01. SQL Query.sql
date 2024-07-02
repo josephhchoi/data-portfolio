@@ -1,3 +1,5 @@
+-- Platform Used: SSMS --
+
 -- 1. SETUP: 
 
 -- Specified database
