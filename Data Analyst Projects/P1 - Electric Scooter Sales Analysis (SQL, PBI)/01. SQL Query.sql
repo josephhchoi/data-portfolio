@@ -44,7 +44,7 @@ EXEC sp_rename 'dbo.es_share_yr_1.dteday_date', 'dteday', 'COLUMN';
 
 -- 3. QUERY FOR POWER BI PLUG-IN:
 
--- Combined the 3 tables via CTE & JOIN
+-- Combined tables via CTE & JOIN
 WITH CombinedESData AS (
 	SELECT * FROM es_share_yr_0
 	UNION
