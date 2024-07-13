@@ -6,7 +6,7 @@ This project provides an in-depth analysis of employee attendance, focusing on a
 ## Dataset
 The project utilizes the following data sources:
 - **Absenteeism_at_work**: Historical attendance data for 2023, capturing detailed records of work hours missed 
-- **Reasons**: Data related reasons for missed work
+- **Reasons**: Data related to reasons for missed work
 - **Compensation**: Employee salary data
 
 ## Project Workflow
