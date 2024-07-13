@@ -12,7 +12,7 @@ The project utilizes the following data sources:
 ## Project Workflow
 **Setup and Data Preparation**: <br>
 Imported data into SQL Server Management Studio (SSMS) to explore, clean, and prepare the data for analysis. This involved: 
-- Conducting exploratory analysis
+- Conducting exploratory data analysis
 - Manipulating data to address formatting issues and ensure data consistency
 - Creating a comprehensive dataset for Power BI visualization 
 
