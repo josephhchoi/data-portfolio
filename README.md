@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Portfolio
 
 ## Introduction:
 I am a data analyst who specializes in managing data, building models, automating processes, and designing both dashboards and paginated reports. 
