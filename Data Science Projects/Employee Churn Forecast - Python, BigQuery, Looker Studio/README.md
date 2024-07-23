@@ -1,7 +1,7 @@
 # Employee Churn Forecast Project
 
 ## Project Overview
-This project aims to predict employee churn and identify high-risk employees using machine learning. By leveraging employee data, I developed a Random Forest model to forecast turnover and provide actionable insights for HR to improve retention strategies.
+This project aims to predict employee churn and identify high-risk employees using machine learning. By leveraging employee data, I developed a Random Forest model to forecast turnover and provide actionable insights for HR to improve retention strategies using Google Cloud platforms.
 
 ## Dataset
 The project utilizes the following datasets:
