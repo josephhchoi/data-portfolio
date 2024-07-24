@@ -44,6 +44,7 @@ Low satisfaction level came out on top as the most impactful feature in employee
 **Which departments have the highest turn rates?** <br>
 Departments with the highest forecasted turnover rates are support, technical, and manufacturing. By identifying departments with the highest turnover rates, HR can develop targeted retention strategies to address the unique challenges faced by employees in these areas. This focused approach can lead to improved employee satisfaction, reduced turnover, and better overall organizational performance.
 
+#### Dashboard Link: [Employee Churn Forecast - Dashboard](https://lookerstudio.google.com/reporting/1829e5bb-c4ca-41f8-9992-e8fd215dc4e4/page/p_jyr5tdgfjd)
 
 
 
