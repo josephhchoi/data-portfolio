@@ -39,5 +39,5 @@ To effectively target each customer cluster, specific strategies should be emplo
 - **Low Income, High Spending**: Discounts, installment plans, or cashback offers
 - **High Income, Low Spending**: Promote savings, investments, and high-end products
 - **Low Income, Low Spending**: Value-for-money products and frequent small purchase rewards
-- **Avg Income, Avg Spending**: Maintain loyalty with consistent value, personalized recommendations, and moderate rewards. Increase spending with new products and promotions
+- **Avg Income, Avg Spending**: Maintain loyalty with consistent value, personalized recommendations, and moderate rewards
 - **Younger Customers**: Use social media, influencers, and mobile-friendly shopping for engagement
