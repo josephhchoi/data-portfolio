@@ -46,6 +46,8 @@ Departments with the highest forecasted turnover rates are support, technical, a
 
 #### Dashboard Link: [Employee Churn Forecast - Dashboard](https://lookerstudio.google.com/reporting/1829e5bb-c4ca-41f8-9992-e8fd215dc4e4/page/p_jyr5tdgfjd)
 
+![image](https://github.com/user-attachments/assets/28e69944-47a7-47d5-a3a8-27a352841452)
+
 
 
 
