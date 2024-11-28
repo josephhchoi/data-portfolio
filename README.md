@@ -25,12 +25,12 @@ Bachelor’s Degree, Data Science
 - [P1](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Analyst%20Projects/01.%20Employee%20Attendance%20Analysis%20-%20SQL%2C%20PBI): Employee Attendance Analysis - SQL, Power BI
 - [P2](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Analyst%20Projects/02.%20Electric%20Scooter%20Sales%20Analysis%20-%20SQL%2C%20PBI): Electric Scooter Sales Analysis - SQL, Power BI
 - [P3](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Analyst%20Projects/03.%20IMDb%20Movie%20Data%20Analysis%20-%20Python): IMDb Movie Data Analysis - Python
-- [Project Archive](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Analyst%20Projects/Project%20Archive)
+- [P#](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Analyst%20Projects/Project%20Archive): Project Archive
 
 **Data Science**:
 - [P1](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Science%20Projects/01.%20Employee%20Churn%20Forecast%20-%20Python%2C%20BigQuery%2C%20Looker%20Studio): Employee Churn Forecast - Python, BigQuery, Looker Studio
 - [P2](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Science%20Projects/02.%20Shopping%20Customer%20Segmentation%20-%20Python): Shopping Customer Segmentation - Python
-- [Project Archive](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Science%20Projects/Project%20Archive)
+- [P#](https://github.com/josephhchoi/data-portfolio/tree/main/Data%20Science%20Projects/Project%20Archive): Project Archive
 
 ## Contact:
 I love connecting with other data enthusiasts, potential collaborators, or anyone interested in my work. Want to stay connected? Here is how you can get in touch:
