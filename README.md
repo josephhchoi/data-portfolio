@@ -20,6 +20,14 @@ Bachelor’s Degree, Data Science
 - **Assistant Manager, Analytics** @Starway Transport - 1/1/2021 to 6/30/2021
 - **Logistic Coordinator, Analytics** @Starway Transport - 5/1/2017 to 12/31/2020
 
+## Data Project Links:
+Data Analyst:
+- Employee Attendancec Analysis - SQL, PowerBI
+- Electric Scooter Sales Analysis = SQL, PowerBI
+- IMBd Movie Data Analysis - Python
+
+Data Science:
+
 ## Contact:
 I love connecting with other data enthusiasts, potential collaborators, or anyone interested in my work. Want to stay connected? Here is how you can get in touch:
 - **Email**: joseph.h.choi.011@gmail.com 
