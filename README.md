@@ -12,7 +12,7 @@ Bachelor’s Degree, Data Science
 - Google Data Analytics Certificate
 - IBM Data Analyst Professional Certificate
 - IBM Data Science Professional Certificate
-- [Career Certification](https://github.com/josephhchoi/data-portfolio/tree/main/Resume/Certifications)
+- [Career Certifications](https://github.com/josephhchoi/data-portfolio/tree/main/Resume/Certifications)
 
 ## Work Experience:
 - **Data Analyst** @Kitchell - 1/29/2024 to Present
