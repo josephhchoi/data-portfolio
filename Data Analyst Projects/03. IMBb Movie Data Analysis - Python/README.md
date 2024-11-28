@@ -1,7 +1,7 @@
 # IMDb Movie Data Analysis Project
 
 ## Project Objective
-This project analyzes IMDb data (1916-2015) to uncover trends and patterns in genres, budgets, revenues, popularity, and ratings. It focuses on exploring genre popularity, financial performance, and movie ratings while testing hypotheses about factors driving movie success. Below are the key research questions and hypotheses driving this project:
+This project analyzes IMDb data (1916-2015) to uncover trends and patterns in the dataset. It focuses on exploring genre popularity, financial performance, and movie ratings while testing hypotheses about factors driving movie success. Below are the key research questions and hypotheses driving this project:
 
 **Research Questions**:  
 > **Q1**: What are the most common genres based on the number of movies made?  
