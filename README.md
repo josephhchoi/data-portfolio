@@ -9,9 +9,10 @@ The data field is a vast and ever-evolving field. Driven by my desire to excel i
 Bachelor’s Degree, Data Science
 
 **Certification**: <br>
-Google Data Analytics Certificate <br>
-IBM Data Analyst Professional Certificate <br>
-IBM Data Science Professional Certificate <br>
+- Google Data Analytics Certificate
+- IBM Data Analyst Professional Certificate
+- IBM Data Science Professional Certificate
+- [Career Certification](https://github.com/josephhchoi/data-portfolio/tree/main/Resume/Certifications)
 
 ## Work Experience:
 - **Data Analyst** @Kitchell - 1/29/2024 to Present
