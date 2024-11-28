@@ -8,7 +8,7 @@ The data field is a vast and ever-evolving field. Driven by my desire to excel i
 **Bellevue University** <br>
 Bachelor’s Degree, Data Science
 
-**Certification**: <br>
+**Certifications**: <br>
 - Google Data Analytics Certificate
 - IBM Data Analyst Professional Certificate
 - IBM Data Science Professional Certificate
