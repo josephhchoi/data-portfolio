@@ -14,7 +14,7 @@ IBM Data Analyst Professional Certificate <br>
 IBM Data Science Professional Certificate <br>
 
 ## Work Experience:
-- **Data Analyst** @Kitchell - 1/1/2024 to Present
+- **Data Analyst** @Kitchell - 1/29/2024 to Present
 - **Transportation Data Analyst** @Yamaha Motors - 10/1/2021 to 11/30/2023
 - **Assistant Manager, Analytics** @Starway Transport - 1/1/2021 to 6/30/2021
 - **Logistic Coordinator, Analytics** @Starway Transport - 5/1/2017 to 12/31/2020
