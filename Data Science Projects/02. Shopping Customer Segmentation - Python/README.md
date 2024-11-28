@@ -30,7 +30,9 @@ Five distinct clusters were identified:
 - **Low Income, High Spending**: Prioritize shopping despite lower income
 - **High Income, Low Spending**: High-income, low-spending, possibly saving
 - **Low Income, Low Spending**: Low income and low spending
- 
+
+![image](https://github.com/user-attachments/assets/2564f0b9-4df2-496e-aa40-3e1db5ac924e)
+
 Younger customers tend to spend more, while older customers spend less. High spenders are typically younger.
 
 ## Marketing Strategy Recommendations:
