@@ -46,14 +46,14 @@ This project analyzes IMDb data (1916-2015) to uncover trends and patterns in th
 
 ### 3. **Profitability Trends Over Time**:
 - **Thriving Genres**:  
-   - Adventure: High profits sustained across decades, driven by blockbuster franchises.  
-   - Fantasy: Growing profitability, particularly in recent years.  
+   - **Adventure**: High profits sustained across decades, driven by blockbuster franchises.  
+   - **Fantasy**: Growing profitability, particularly in recent years.  
 - **Struggling Genres**:  
-   - Documentary: Minimal profits and low growth.  
-   - TV Movie: Consistently underperforming.
+   - **Documentary**: Minimal profits and low growth.  
+   - **TV Movie**: Consistently underperforming.
 - **Mixed Trends**:  
-   - Music: Fluctuates with profit peaks tied to popular releases.  
-   - History: Sporadic profit spikes but lacks consistent success.
+   - **Music**: Fluctuates with profit peaks tied to popular releases.  
+   - **History**: Sporadic profit spikes but lacks consistent success.
  
 ![image](https://github.com/user-attachments/assets/4d7fcc8e-4a1e-4188-99ec-ceee6210b773)
 
