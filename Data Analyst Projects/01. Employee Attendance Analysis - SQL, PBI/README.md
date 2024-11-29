@@ -23,6 +23,9 @@ Developed an interactive tool to visualize and analyze employee attendance data.
 - **Dataset**: Shows detailed data tables with attendance records and summary statistics.
 - **Summary/Analysis**: Provides a summary and analysis of key insights.
 
+![image](https://github.com/user-attachments/assets/c8165d02-3265-4bc2-bf17-e7f15266d5c8)     ![image](https://github.com/user-attachments/assets/6e346160-9eca-46e4-a357-b7716336cd01)
+![image](https://github.com/user-attachments/assets/eb09701d-6c2c-43fc-b507-5d1a709b5361)     ![image](https://github.com/user-attachments/assets/3d9e8f0f-aa63-4743-8dac-624aee608761)
+
 ## Key Questions and Insights:
 **What are the peak periods of absenteeism?** <br> 
 The peak periods for absenteeism are March and July. This suggests potential stress periods or significant events during these months. It is recommended to investigate these months further to understand the underlying causes.
