@@ -20,6 +20,9 @@ Created an interactive tool to visualize and analyze electric scooter sales data
 - **Dataset**: Shows detailed data tables with rental transactions and yearly financial summary <br>
 - **Summary/Analysis**: Provides a summary and analysis of key insights
 
+![image](https://github.com/user-attachments/assets/ac4212df-f8d2-4fb4-b8de-96d2cbfbf506)     ![image](https://github.com/user-attachments/assets/0e568f9a-f2a0-4784-bf86-f46936011f18)
+![image](https://github.com/user-attachments/assets/a63421a7-2308-408f-a506-c20b2760a561)     ![image](https://github.com/user-attachments/assets/a0d61f1c-6a74-4ce6-97f9-13990063d4e9)
+
 ## Key Questions and Insights
 **When are the peak seasonal periods for electric scooter rentals?** <br>
 The peak periods for electric scooter rentals are during the summer months (June to August). This suggests higher demand due to favorable weather and possibly more leisure activities during this time.
