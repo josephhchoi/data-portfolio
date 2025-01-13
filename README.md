@@ -39,7 +39,6 @@ Bachelor of Science in Data SCience
 ## Contact:
 I love connecting with other data enthusiasts, potential collaborators, or anyone interested in my work. Want to stay connected? Here is how you can get in touch:
 - **Email**: joseph.h.choi.011@gmail.com 
-- **LinkedIn**: https://www.linkedin.com/in/josephhchoi 
-- **Tableau**: https://public.tableau.com/app/profile/josephhchoi 
-
+- **LinkedIn**: https://www.linkedin.com/in/josephhchoi
+  
 Thank you for visiting my portfolio!
