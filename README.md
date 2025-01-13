@@ -9,7 +9,7 @@ The data field is a vast and ever-evolving field. Driven by my desire to excel i
 Bachelor’s Degree, Data Science
 
 **Certifications**: <br>
-- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - Google Data Analytics Certificate
 - IBM Data Analyst Professional Certificate
 - IBM Data Science Professional Certificate
