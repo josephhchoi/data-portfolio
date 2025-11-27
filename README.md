@@ -10,7 +10,7 @@ The data field is a vast and ever-evolving field. Driven by my desire to excel i
 Master of Science in Business Analytics (*Expected Completion: Dec 2026*)
 
 **Bellevue University** <br>
-Bachelor of Science in Data SCience
+Bachelor of Science in Data Science
 
 **Certifications**: <br>
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
