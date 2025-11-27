@@ -1,12 +1,13 @@
 # Data Portfolio
 
 ## Introduction:
-I am a data analyst who specializes in managing data, building models, automating processes, and designing both dashboards and paginated reports. 
+Hello! My name is Joseph, and I am a Data Analyst with experience building scalable reporting systems, standardized data models, and automated workflows that help teams make faster, more informed decisions. My work focuses on designing end-to-end analytics solutions that cover everything from data collection and integration to dashboards and applications.
+
 The data field is a vast and ever-evolving field. Driven by my desire to excel in my industry, I aim to use this platform to learn and stay current with the latest trends by putting together a portfolio to showcase my data analytics and data science projects to everyone. Excited for what’s to come and looking forward to tackling various data-related challenges through my projects.
 
 ## Education and Training:
 **Sacramento State University** <br>
-Master of Science in Business Analytics (*Expected Completion: Aug 2026*)
+Master of Science in Business Analytics (*Expected Completion: Dec 2026*)
 
 **Bellevue University** <br>
 Bachelor of Science in Data SCience
